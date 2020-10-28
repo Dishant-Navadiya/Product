@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+h1 {
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
